@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align="center"> Hi there 👋 </h1>
+<p align="center"> I am Amir Danial. I Love ❤️ programming and currently working as Blockchain & Game developer. </p>
+<img align="right" src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" height="300" width="500">
+<h3 align="center"> Language & Skills </h3>
 
-<!--
-**Elite1004/Elite1004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Solidity
+- Rust
+- Javascript
+- Python
+- Smart Contract Development
+- 3D & 2D Game Development
+- Web Development
+- Machine Learning
+- App Development
 
-Here are some ideas to get you started:
+<h4 align="center">Things got bugs, gonna smash them one by one</h4>
+<br />
+<br />
+<br />
+-----
+Credits: [Amir Danial](https://github.com/Elite1004)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Last Edited on: 27/12/2020
